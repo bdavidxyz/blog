@@ -23,7 +23,7 @@ It will be far easier for the reader to scan the HTML document.
 <input class='submit'/> <!-- Ah, ok -->
 ```
 
-**Source** : [Raphael Goetter (french article) ](https://css-tricks.com/strategies-keeping-css-specificity-low/#article-header-id-3)https://blog.goetter.fr/2014/11/10/bien-utiliser-un-framework-css/
+**Source** : [Raphael Goetter (french article)](https://blog.goetter.fr/2014/11/10/bien-utiliser-un-framework-css/)
 
 ## 1. Put the class name at the lowest possible level
 
