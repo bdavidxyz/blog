@@ -48,6 +48,24 @@ h1,h2,h3,h4,h5,h6 {
   color:#ee7600;
 }
 
+.force-main-color {
+  color: #ee7600 !important;
+}
+.force-bg-color {
+  background-color: #ee7600 !important;
+}
+
+.btn-lookforjob {
+  background-color: #ee7600 !important;
+  border: none;
+}
+.btn-lookforjob a {
+  color:white;
+}
+.btn-lookforjob:hover {
+  border: none;
+}
+
 .one-post h2 {
   text-align: center;
 }
