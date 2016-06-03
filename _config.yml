@@ -36,11 +36,11 @@ avatar: "/img/avatar-icon.png"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: David Boureau
-  email: "davbohr@gmail.com"
-  github: davidb583    # eg. daattali
-  twitter: davidb583   # eg. daattali
-  linkedin: in/davidboureau  # eg. "pub/dean-attali/8/946/143"
-  stackoverflow: 2595513/davidb583  # eg. "3943160/daattali"
+  email: "bdavidxyz@gmail.com"
+  github: bdavidxyz    # eg. daattali
+  twitter: bdavidxyz   # eg. daattali
+  linkedin: in/bdavidxyz  # eg. "pub/dean-attali/8/946/143"
+  stackoverflow: 2595513/bdavidxyz  # eg. "3943160/daattali"
 
 # Select which links to show in the footer
 footer-links-active:
@@ -54,7 +54,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "davidb.space"
+url-pretty: "bdavid.xyz"  # eg. "bdavid.xyz"
 
 # --- Misc --- #
 
