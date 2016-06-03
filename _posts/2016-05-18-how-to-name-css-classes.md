@@ -64,13 +64,13 @@ main.mainly p { /* DON'T DO THIS */
 
 
 
-## 3. Don't use content, if it visually speaks louder
+## 3. Don't use content, if the picture speaks louder
 
 Let's say the header logo actually looks like this :
 
 ![Guillotine](http://res.cloudinary.com/toutuncafe/image/upload/c_scale,h_74,w_139/v1463738189/guillotine_cgxbrd.png)
 
-You can try to name the associated class 'guillotine' for example, everybody in your team will quickly understand what you are talking about.
+Then don't call it header-logo.
 
 ```css
 .guillotine {
