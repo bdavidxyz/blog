@@ -323,9 +323,9 @@ Again, Harry Roberts come to the rescue.
 
 
 
-## 16. Try to avoid more than two words for a given element
+## 16. Try to avoid more than two words for a given name
 
-The element must be self-descriptive in one or two words, or code will be hard to maintain.
+The name must be self-descriptive in one or two words, or code will be hard to maintain.
 
 **Example**
 
